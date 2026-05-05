@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @miloszekxk
-- 👀 I’m interested in programming , cybersecurity , computer networks
+- 👀 I’m interested in programming , cybersecurity , computer networks, IoT.
 - 📫 How to reach me dm me instagram @miloszekxk  🫡
 
 <!---
