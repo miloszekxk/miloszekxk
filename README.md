@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @miloszekxk
-- 👀 I’m interested in programming , cybersecurity , computer networks, IoT.
-- 📫 How to reach me dm me instagram @miloszekxk  🫡
-
-<!---
-miloszekxk/miloszekxk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I'm Miłosz - IT student & IT technician (INF.02, INF.03)
+- 🖧 Interested in computer networks, system administration, cybersecurity and IoT
+- 🛠️ Working with: Linux · Windows Server / AD · Cisco · pfSense · Zabbix · C++ · ESP32
+- 🌐 Portfolio: [miloszekxk.github.io](https://miloszekxk.github.io)
+- 📫 Contact: MiloszBaron@outlook.com
